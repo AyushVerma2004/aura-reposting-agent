@@ -1,0 +1,14 @@
+1. User Login
+2. User dashboard
+3. Suggestion page (Box wise sections for trending topics on different socials)
+4. Content Idead (posts, videos, tweets, reel)
+5. Caption Ideas
+6. Hashtags
+7. Navigation Bar(with all the options possible)
+
+--Additional features--
+
+Scheduler
+content history
+content analytics (if possible)
+

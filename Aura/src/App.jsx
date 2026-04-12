@@ -1,17 +1,14 @@
-import React from 'react'
-import logo from "./assets/logo.png";
 
-const App = () => {
+import React from 'react';
+import Hashtags from './components/Hashtags.jsx';
+import './components/Hashtags.css';
+
+function App() {
   return (
-    <div>
-      <div>App</div>
-      <div>
-        <img src={logo} alt="Logo" />
-        <h1>My App</h1>
-      </div>
+    <div className="App">
+      <Hashtags />
     </div>
   );
 }
 
-
-export default App
+export default App;
